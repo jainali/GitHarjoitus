@@ -10,7 +10,11 @@ namespace GitHarjoitus
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine(1+1);
+=======
+            Console.WriteLine("Hello World!");
+>>>>>>> dev
         }
     }
 }
